@@ -1,29 +1,9 @@
-.content {
-    width: 500px;
-    height: 300px;
-    background-image: url("../data/style/photo-1573332039392-b66bd2bfa5bf.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
-.left {
-    text-align: left;
+.contents {
     border: 1px solid black;
-}
-
-.center {
-    text-align: center;
-    font-size: 50px;
-    border: 1px solid black;
-}
-
-.right  {
-    text-align: right;
-    border: 1px solid black;
-}
-
-div {
-    float: left;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -75px 0 0 -75px;
+    width: 150px;
+    height: 150px;
 }
