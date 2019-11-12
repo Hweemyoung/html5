@@ -5,3 +5,26 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.main-frame {
+    border: 1px solid black;
+    text-align: center;
+    width: 850px;
+    margin: 0 auto;
+}
+
+.menu {
+    margin-top: 50px;
+}
+
+.menu-img {
+    float: left;
+}
+
+.copyright {
+    margin-top: 50px;
+}
+
+#logo {
+    margin-top: 50px;
+}
